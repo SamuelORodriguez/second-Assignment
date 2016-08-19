@@ -1,0 +1,10 @@
+public class Name{
+public static void main(String[] args){
+String Input = new String();
+Scanner firstName = new Scanner(System.in);
+System.out.println("Whats is your name?: ");
+input = firstName.next();
+SYstem.out.println("The length of your name is: " + input.length();
+System.out.println(input.toUpperCase());
+}
+}
